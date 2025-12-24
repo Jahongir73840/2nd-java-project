@@ -61,13 +61,13 @@ Response example:
 ```
 <img width="2559" height="1434" alt="image" src="https://github.com/user-attachments/assets/77accb81-5e82-4a5e-8f4c-3313de1649a6" />
 
-###Swagger UI
+## Swagger UI
 The API documentation is available via Swagger UI:
 http://localhost:8080/swagger-ui.html
 
 ---
 
-###How to Run:
+### How to Run:
 1. Clone the repository
 2. Open the project in IntelliJ IDEA
 3. Run the Task2Application class
