@@ -53,9 +53,9 @@ Response example:
 [
   {
     "id": 1,
-    "firstName": "John",
-    "lastName": "Doe",
-    "email": "john.doe@example.com"
+    "firstName": "Donald",
+    "lastName": "Trump",
+    "email": "donald.trump@potus.com"
   }
 ]
 ```
